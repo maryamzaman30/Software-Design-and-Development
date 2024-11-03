@@ -2,7 +2,7 @@
 
 ## Associated with University of London
 
-# Project Name
+## Project Name
 Software Design and Development Coursework
 
 ## Instructions for Running the Code for Part 2
